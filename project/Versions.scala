@@ -1,3 +1,3 @@
 object Versions {
-  final val CatsEffect = "3.1.0"
+  final val CatsEffect = "3.1.1"
 }
